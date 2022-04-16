@@ -1,0 +1,7 @@
+{
+ "ip": "Spiderm0249Y.aternos.me",
+ "port": "26853",
+ "name": "legend",
+ "auto-night-skip": "false",
+ "loginmsg": "Hi"
+}
